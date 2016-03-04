@@ -1,0 +1,26 @@
+body {
+  font-family:Tahoma, sans-serif;
+  color:#4C3D4B;
+  background-color: #E4E4C6;
+  background-image: url("http://colourlovers.com.s3.amazonaws.com/images/patterns/4316/4316393.png?1401213844");
+  background-attachment: fixed;
+}
+
+h1 {
+  background-color: #4C3D4B;
+  color: #E4E4C6;}
+
+a {
+  color:#7C6E7E;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#content {
+  margin:30px;
+  padding:5px;
+  background-color: #E4E4C6;
+}
