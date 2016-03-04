@@ -1,6 +1,5 @@
 Snap-Points.js
 Copyright 2016 by Brian Rollins (me at brianrollins.com)
-Released under a Creative Commons, Attribution 4.0 International License.
 Requires JQuery (jquery.com)
 
 Just add the attribute data-snap="true" to the elements you want the browser to snap to.
